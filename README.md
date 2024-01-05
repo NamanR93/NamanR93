@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **namanrawat90.nr@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/3/my-drive]([https://drive.google.com/file/d/1GY9aXBjN81Onereq3RjoxgrKVsP3UzAs/view?usp=sharing](https://drive.google.com/file/d/1RyIWI5Wny_rU-ptW54RSHCujmpUi96BO/view?usp=sharing))
+- 📄 Know about my experiences [https://drive.google.com/drive/u/3/my-drive](https://drive.google.com/file/d/1RyIWI5Wny_rU-ptW54RSHCujmpUi96BO/view?usp=sharing)
 
 - ⚡ Fun fact **I like gaming!**
 
