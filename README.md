@@ -10,12 +10,12 @@
 
 - 📫 How to reach me **namanrawat90.nr@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/3/my-drive](https://drive.google.com/file/d/1GY9aXBjN81Onereq3RjoxgrKVsP3UzAs/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/u/3/my-drive]([https://drive.google.com/file/d/1GY9aXBjN81Onereq3RjoxgrKVsP3UzAs/view?usp=sharing](https://drive.google.com/file/d/1RyIWI5Wny_rU-ptW54RSHCujmpUi96BO/view?usp=sharing))
 
 - ⚡ Fun fact **I like gaming!**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="lhttps://drive.google.com/file/d/1RyIWI5Wny_rU-ptW54RSHCujmpUi96BO/view?usp=sharinghttps://drive.google.com/file/d/1RyIWI5Wny_rU-ptW54RSHCujmpUi96BO/view?usp=sharinghttps://drive.google.com/file/d/1RyIWI5Wny_rU-ptW54RSHCujmpUi96BO/view?usp=sharinghttps://drive.google.com/file/d/1RyIWI5Wny_rU-ptW54RSHCujmpUi96BO/view?usp=sharinghttps://drive.google.com/file/d/1RyIWI5Wny_rU-ptW54RSHCujmpUi96BO/view?usp=sharingeft">
 <a href="https://www.hackerrank.com/@namanrawat90_nr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@namanrawat90_nr" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/itzz_naman23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itzz_naman23" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/namanrawat90nr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="namanrawat90nr" height="30" width="40" /></a>
