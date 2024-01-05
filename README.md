@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **MERN, JAVA**
+- 💬 Ask me about **JAVA, OOPS**
 
 - 📫 How to reach me **namanrawat90.nr@gmail.com**
 
