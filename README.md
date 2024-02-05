@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naman Rawat</h1>
 <h3 align="center">A passionate frontend developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif">
+<img align="right" alt="Coding" width="200" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif">
 
 - 🔭 I’m currently working on **An E-commerce website**
 
