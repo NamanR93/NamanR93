@@ -9,7 +9,7 @@
 - 💬 Ask me about **JAVA, OOPS**
 
 - 📫 How to reach me **namanrawat90.nr@gmail.com**
-- 💻 **[Check out my projects!](https://github.com/MadhavMishra1607?tab=repositories](https://github.com/Itzz-naman23?tab=repositories)**
+- 💻 **[Check out my projects!](https://github.com/Itzz-naman23?tab=repositories)**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/3/my-drive](https://drive.google.com/file/d/1RyIWI5Wny_rU-ptW54RSHCujmpUi96BO/view?usp=sharing)
 
