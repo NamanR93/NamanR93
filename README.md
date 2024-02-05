@@ -15,15 +15,9 @@
 - 📫 Reach out to me <br>
 
 [![](https://img.shields.io/badge/-Naman_Rawat-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naman-rawat-826068202/)](https://www.linkedin.com/in/naman-rawat-826068202/)
-[![](https://img.shields.io/badge/-namanrawat90.nr@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:NamanRawat)](mailto:namanrawat90.nr@gmail.com)
-
 [![](https://img.shields.io/badge/-Itzz-naman23-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itzz-naman23)
-
-  
- <br />
-
-
-
+[![](https://img.shields.io/badge/-namanrawat90.nr@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:NamanRawat)](mailto:namanrawat90.nr@gmail.com)
+<br />
 <h3 align="left">Connect with me:</h3>
 <p align="lhttps://drive.google.com/file/d/1RyIWI5Wny_rU-ptW54RSHCujmpUi96BO/view?usp=sharinghttps://drive.google.com/file/d/1RyIWI5Wny_rU-ptW54RSHCujmpUi96BO/view?usp=sharinghttps://drive.google.com/file/d/1RyIWI5Wny_rU-ptW54RSHCujmpUi96BO/view?usp=sharinghttps://drive.google.com/file/d/1RyIWI5Wny_rU-ptW54RSHCujmpUi96BO/view?usp=sharinghttps://drive.google.com/file/d/1RyIWI5Wny_rU-ptW54RSHCujmpUi96BO/view?usp=sharingeft">
 <a href="https://www.hackerrank.com/@namanrawat90_nr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@namanrawat90_nr" height="30" width="40" /></a>
