@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naman Rawat</h1>
 <h3 align="center">A passionate frontend developer.</h3>
-<img align="right" alt="Coding" width="200" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif">
+<img align="right" alt="Coding" width="300" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif">
 
 - 🔭 I’m currently working on **An E-commerce website**
 
@@ -16,6 +16,7 @@
 
 [![](https://img.shields.io/badge/-Naman_Rawat-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naman-rawat-826068202/)](https://www.linkedin.com/in/naman-rawat-826068202/)
 [![](https://img.shields.io/badge/-namanrawat90.nr@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:NamanRawat)](mailto:namanrawat90.nr@gmail.com)
+
 [![](https://img.shields.io/badge/-Itzz-naman23-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itzz-naman23)
 
   
