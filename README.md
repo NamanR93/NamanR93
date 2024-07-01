@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **An E-commerce website**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **JAVA, OOPS**
   
