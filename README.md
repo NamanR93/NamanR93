@@ -14,7 +14,7 @@
 
 - 📫 Reach out to me <br>
 
-[![](https://img.shields.io/badge/-Naman_Rawat-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naman-rawat-826068202/)](https://www.linkedin.com/in/naman-rawat-826068202/)
+[![](https://img.shields.io/badge/-Naman_Rawat-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naman-rawat-826068202/)](https://www.linkedin.com/in/namanrawat/)
 [![](https://img.shields.io/badge/-namanrawat90.nr@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:NamanRawat)](mailto:namanrawat90.nr@gmail.com)
 <br />
 [![](https://img.shields.io/badge/-Itzz-naman23-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itzz-naman23)
