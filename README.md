@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naman Rawat</h1>
+<h1 align="center">Hi, I'm Naman Rawat</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 <img align="right" alt="Coding" width="300" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif">
 
