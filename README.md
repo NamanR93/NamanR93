@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **An E-commerce website**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **JAVA, OOPS**
+- 💬 Ask me about **JAVA, Spring**
   
 - 💻 **[Check out my projects!](https://github.com/Itzz-naman23?tab=repositories)**
 
