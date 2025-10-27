@@ -18,7 +18,7 @@
 [![](https://img.shields.io/badge/-Naman_Rawat-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naman-rawat-826068202/)](https://www.linkedin.com/in/namanrawat/)
 [![](https://img.shields.io/badge/-namanrawat90.nr@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:NamanRawat)](mailto:namanrawat23092001@gmail.com)
 <br />
-[![](https://img.shields.io/badge/-Itzz-naman23-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itzz-naman23)
+[![](https://img.shields.io/badge/-NamanR93-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NamanR93)
 
 <h3 align="left">Connect with me:</h3>
 <p align="lhttps://drive.google.com/file/d/1RyIWI5Wny_rU-ptW54RSHCujmpUi96BO/view?usp=sharinghttps://drive.google.com/file/d/1RyIWI5Wny_rU-ptW54RSHCujmpUi96BO/view?usp=sharinghttps://drive.google.com/file/d/1RyIWI5Wny_rU-ptW54RSHCujmpUi96BO/view?usp=sharinghttps://drive.google.com/file/d/1RyIWI5Wny_rU-ptW54RSHCujmpUi96BO/view?usp=sharinghttps://drive.google.com/file/d/1RyIWI5Wny_rU-ptW54RSHCujmpUi96BO/view?usp=sharingeft">
@@ -37,7 +37,7 @@
      <tr><td><img  width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NamanR93&theme=tokyonight"  display=block width=100% height=auto alt="1" ></td></tr>
 <!--   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=MadhavMishra1607&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0F2D3D&stroke=1CADFB&ring=1CADFB&fire=1CADFB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1CADFB&border=DDDDDD00&sideLabels=DDDDDD&dates=CCCCCC" />
   </p> -->
- <td><img  width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itzz-naman23&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+ <td><img  width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanR93&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
   </summary>
 <p align="center">
 </p>
