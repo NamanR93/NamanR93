@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JAVA, Spring**
   
-- 💻 **[Check out my projects!](https://github.com/Itzz-naman23?tab=repositories)**
+- 💻 **[Check out my projects!](https://github.com/NamanR93?tab=repositories)**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RyIWI5Wny_rU-ptW54RSHCujmpUi96BO/view?usp=sharing)
 
