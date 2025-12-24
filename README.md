@@ -3,11 +3,11 @@
 <!-- <h3 align="center">A passionate frontend developer.</h3> -->
 <img align="right" alt="Coding" width="300" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif">
 
-- 🔭 I’m currently working on **An E-commerce website**
+- 🔭 I’m currently working on **An Spring-Boot Project**
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **JAVA, Spring**
+- 💬 Ask me about **JAVA, Spring-Boot, Kubernetes**
   
 - 💻 **[Check out my projects!](https://github.com/NamanR93?tab=repositories)**
 
